@@ -1,0 +1,3 @@
+1. Arrow function
+什么时候不要用arrow function
+https://medium.com/analytics-vidhya/arrow-functions-when-not-to-use-cfe03d53407d
